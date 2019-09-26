@@ -1,0 +1,25 @@
+{
+    "listing_url": "https://www.airbnb.com/rooms/10006546",
+    "name": "Ribeira Charming Duplex",
+    "description": " perfect conditions to discover the history and the charm of Porto. Apartment comfortable, charming, romantic and cozy in the heart of Ribeira. Within walking distance of all the most emblematic places of the city of Porto. The apartment is fully equipped to host 8 people, with cooker, oven, washing machine, dishwasher, microwave, coffee machine (Nespresso) and kettle. The apartment is located in a very typical area of the city that allows to cross with the most picturesque population of the city, welcoming, genuine and happy people that fills the streets with his outspoken speech and contagious with your sincere generosity, wrapped in a only parochial spirit. We are always available to help guests",
+    "house_rules": "Make the house your home...",
+    "last_scraped": {
+        "$date": "2019-02-16T05:00:00Z"
+    },
+    "calendar_last_scraped": {
+        "$date": "2019-02-16T05:00:00Z"
+    },
+    "first_review": {
+        "$date": "2016-01-03T05:00:00Z"
+    },
+    "last_review": {
+        "$date": "2019-01-20T05:00:00Z"
+    },
+    "accommodates": 8,
+    "bedrooms": 3,
+    "beds": 5,
+    "number_of_reviews": 51,
+    "bathrooms": {
+        "$numberDecimal": "1.0"
+    }
+}
